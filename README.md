@@ -1,4 +1,4 @@
-# 시각장애인을 위한 병원 서비스 어플리케이션
+# 시각장애인을 위한 병원 서비스 보조 어플리케이션
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1572B6?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Google STT & TTS-4285F4?style=flat-square&logo=Google&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white"/>
 
 #### * 주요 기능
