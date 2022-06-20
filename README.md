@@ -7,6 +7,9 @@
 3. YOLOv4를 활용한 병원 내 길 음성 안내
 4. Bluetooth 기기 인식을 통한 진료과 도착 확인
 
+#### * 시연 영상
+<img width="80%" src="https://user-images.githubusercontent.com/78192524/174629623-a224bfa5-12f2-49b1-9c97-ab435d50abd5.gif"/>
+
 #### * UI
 <img width="80%" src="https://user-images.githubusercontent.com/78192524/173225479-85d8ae05-f0d7-488e-a135-add2020f1e12.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/78192524/173225525-e6cedeb4-458b-4f98-b624-9f8488fcc8f0.png"/>
